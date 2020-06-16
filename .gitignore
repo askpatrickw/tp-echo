@@ -145,3 +145,4 @@ dmypy.json
 .micropy/
 !micropy.json
 .envrc
+!src/lib
